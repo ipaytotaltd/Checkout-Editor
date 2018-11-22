@@ -1,6 +1,5 @@
 === Checkout Field Editor (Checkout Manager) for WooCommerce ===
-Contributors: ThemeHigh
-Donate link: https://themehigh.com/
+Contributors: Aditya Williams
 Tags: checkout field editor, woocommerce checkout field editor, checkout manager, woocommerce checkout manager, checkout field customizer, checkout form editor, checkout form customizer, checkout, WooCommerce checkout, checkout form designer, checkout
 Requires at least: 4.0
 Tested up to: 4.9
